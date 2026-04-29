@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "stripe": {
+      "enabled": false
+    }
+  }
+}
